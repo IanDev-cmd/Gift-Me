@@ -1,0 +1,11 @@
+[
+  {"id":"kilimani","name":"Kilimani Primary School","short":"Kilimani Primary","county":"Nairobi","tier":"Primary","initials":"KP","color":"#1F7A4D","lat":-1.2904,"lng":36.7829,"mall":"Yaya Centre","mallLat":-1.2927,"mallLng":36.7881},
+  {"id":"kenya-high","name":"Kenya High School","short":"Kenya High","county":"Nairobi","tier":"High School","initials":"KH","color":"#7A1F3D","lat":-1.2968,"lng":36.7906,"mall":"Prestige Plaza","mallLat":-1.3004,"mallLng":36.7872},
+  {"id":"maseno","name":"Maseno School","short":"Maseno School","county":"Kisumu","tier":"High School","initials":"MS","color":"#1D3A8A","lat":-0.0032,"lng":34.6055,"mall":"Maseno Shopping Centre","mallLat":-0.0094,"mallLng":34.5988},
+  {"id":"alliance","name":"Alliance High School","short":"Alliance High","county":"Kiambu","tier":"High School","initials":"AH","color":"#9B2335","lat":-1.2508,"lng":36.6632,"mall":"Naivas Kikuyu","mallLat":-1.2456,"mallLng":36.6668},
+  {"id":"starehe","name":"Starehe Boys Centre","short":"Starehe Centre","county":"Nairobi","tier":"High School","initials":"SB","color":"#1A1A1A","lat":-1.2722,"lng":36.8414,"mall":"Naivas Ngara","mallLat":-1.2768,"mallLng":36.8305},
+  {"id":"strathmore","name":"Strathmore University","short":"Strathmore University","county":"Nairobi","tier":"University / TVET","initials":"SU","color":"#0B1F4D","lat":-1.3098,"lng":36.8136,"mall":"T-Mall Langata","mallLat":-1.3192,"mallLng":36.8274},
+  {"id":"moi","name":"Moi University","short":"Moi University","county":"Uasin Gishu","tier":"University / TVET","initials":"MU","color":"#0E6B3C","lat":0.2864,"lng":35.2945,"mall":"Kesses Shopping Centre","mallLat":0.2948,"mallLng":35.2869},
+  {"id":"uon","name":"University of Nairobi","short":"Nairobi University","county":"Nairobi","tier":"University / TVET","initials":"UN","color":"#0A3A66","lat":-1.2791,"lng":36.8168,"mall":"Naivas Kencom","mallLat":-1.2862,"mallLng":36.8236},
+  {"id":"ku","name":"Kenyatta University","short":"Kenyatta University","county":"Nairobi","tier":"University / TVET","initials":"KU","color":"#8C1D18","lat":-1.18,"lng":36.9305,"mall":"Unicity Mall","mallLat":-1.1742,"mallLng":36.9196}
+]
