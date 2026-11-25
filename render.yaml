@@ -1,0 +1,13 @@
+services:
+  # Public URL: https://gift-me.onrender.com
+  # (same host as Gift-Me.onrender.com; Render serves this name in lowercase)
+  - type: web
+    name: gift-me
+    runtime: static
+    renderSubdomainPolicy: enabled
+    buildCommand: echo "Publishing static files"
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
